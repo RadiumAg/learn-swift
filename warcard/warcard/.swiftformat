@@ -1,0 +1,8 @@
+// SwiftFormat configuration file
+// 你可以根据需要自定义下面的规则
+--indent 4
+--allman false
+--swiftversion 6.0
+--wraparguments before-first
+--wrapelements before-first
+--header ignore
